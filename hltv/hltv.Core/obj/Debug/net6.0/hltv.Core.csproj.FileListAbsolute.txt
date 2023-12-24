@@ -1,0 +1,14 @@
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\bin\Debug\net6.0\hltv.Core.deps.json
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\bin\Debug\net6.0\hltv.Core.runtimeconfig.json
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\bin\Debug\net6.0\hltv.Core.dll
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\bin\Debug\net6.0\hltv.Core.pdb
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\hltv.Core.csproj.AssemblyReference.cache
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\hltv.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\hltv.Core.AssemblyInfoInputs.cache
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\hltv.Core.AssemblyInfo.cs
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\hltv.Core.csproj.CoreCompileInputs.cache
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\hltv.Core.dll
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\refint\hltv.Core.dll
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\hltv.Core.pdb
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\hltv.Core.genruntimeconfig.cache
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Core\obj\Debug\net6.0\ref\hltv.Core.dll

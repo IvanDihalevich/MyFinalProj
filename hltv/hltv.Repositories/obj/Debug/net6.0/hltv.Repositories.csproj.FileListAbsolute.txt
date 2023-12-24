@@ -1,0 +1,15 @@
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\bin\Debug\net6.0\hltv.Repositories.deps.json
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\bin\Debug\net6.0\hltv.Repositories.dll
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\bin\Debug\net6.0\hltv.Repositories.pdb
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\bin\Debug\net6.0\hltv.Core.dll
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\bin\Debug\net6.0\hltv.Core.pdb
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\hltv.Repositories.csproj.AssemblyReference.cache
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\hltv.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\hltv.Repositories.AssemblyInfoInputs.cache
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\hltv.Repositories.AssemblyInfo.cs
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\hltv.Repositories.csproj.CoreCompileInputs.cache
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\hltv.Repositories.csproj.CopyComplete
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\hltv.Repositories.dll
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\refint\hltv.Repositories.dll
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\hltv.Repositories.pdb
+C:\My important files\2 курс\C#\Labs\Лабораторна робота №3\Lab_3\hltv\hltv.Repositories\obj\Debug\net6.0\ref\hltv.Repositories.dll
